@@ -21,7 +21,7 @@ Love to play Badminton when not in coding mode.
 
 #### Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimsakshi&theme=vue&hide_border=true&show_icons=true)
-<img align="right" alt="gif" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" height="290">
+<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" height="290">
 
 
 
