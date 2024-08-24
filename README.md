@@ -21,7 +21,7 @@ Love to play Badminton when not in coding mode.
 
 #### Languages and Tools
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heyimsakshi&theme=vue&hide_border=true&show_icons=true)
-<img align="right" alt="gif" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" height="290">
+<img align="right" alt="gif" src="https://private-user-images.githubusercontent.com/74038190/256977180-54fb7eef-b1e8-41dc-be97-57e4180b3b24.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MjQ1MzU3MjUsIm5iZiI6MTcyNDUzNTQyNSwicGF0aCI6Ii83NDAzODE5MC8yNTY5NzcxODAtNTRmYjdlZWYtYjFlOC00MWRjLWJlOTctNTdlNDE4MGIzYjI0LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA4MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwODI0VDIxMzcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTkxZDQ4YTFhM2MzMjNjMzg2OTk1Yjk5ZTM0YTM5NGUwNjBlYjljYmY3MGRjMWQwNmU0ZGY0ZWY2Y2IzZGJkMjgmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.uL01UbyVI-kqswRRwllpG637XQfKJxUs6NkJNdqamw8" height="290">
 
 
 
