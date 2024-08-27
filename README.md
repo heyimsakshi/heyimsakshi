@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...Anything geeky
 - 📫 How to reach me: ... mail_me @shakshi.agrawal1115@gmail.com
 - 😄 Pronouns: ...She/Her
-- ⚡ Fun fact: ...I'm Tom :)
+- ⚡ Fun fact: ...I'm Tom :) love you Jerry 💞 
