@@ -1,5 +1,5 @@
 ### Hi there!, 👋
-I currently work as Angular developer at Brane Enterprises pvt ltd.  I completed my B.Tech in **Information Technology** from Motilal Nehru National Institute of Technology **(MNNIT)** in 2021.
+I currently work as Frontend developer at Brane Enterprises pvt ltd.  I completed my B.Tech in **Information Technology** from Motilal Nehru National Institute of Technology **(MNNIT)** in 2021.
 Currently learning to the best of my capabilities in fullstack development.
 
 
